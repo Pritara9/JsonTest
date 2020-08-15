@@ -15,6 +15,7 @@ public String getBuildingName() {
 }
 public void setBuildingName(String buildingName) {
 	this.buildingName = buildingName;
+	//Syste.
 }
 public String getArea() {
 	return area;
